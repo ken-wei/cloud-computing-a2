@@ -1,0 +1,26 @@
+[
+    {
+        "username": "user@test.com",
+        "password": "password"
+    },
+    {
+        "username": "user2@test.com",
+        "password": "password"
+    },
+    {
+        "username": "user3@test.com",
+        "password": "password"
+    },
+    {
+        "username": "user4@test.com",
+        "password": "password"
+    },
+    {
+        "username": "user5@test.com",
+        "password": "password"
+    },
+    {   
+        "username": "s3693288@student.rmit.edu.au",
+        "password": "3693288"
+    }
+]

@@ -1,0 +1,67 @@
+.page-title h1 {
+    display: inline-block;
+    width: 90vw;
+    text-align: center;
+}
+
+.home {
+    text-align: center;
+}
+
+.map-component {
+    width: 90vw;
+    height: 40vh;
+    display:inline-block;
+    /* border: 1px solid; */
+    overflow: hidden;
+}
+
+.map-sidebar {
+    display: inline-block;
+    height: 50px;
+    width: 90vw;
+    vertical-align: center;
+    margin: 10px 0;
+}
+
+.map-sidebar input {
+    /* position: relative; */
+    padding: 5px;
+    margin-top: 6px;
+    width: 90vw;
+    border: 1px solid rgb(180, 174, 174);
+    text-align: center;
+}
+
+/* .map-sidebar input:focus {
+    border-radius: 10px;
+} */
+
+/* Dropdown menu for all the autocomplete places */
+.map-sidebar .autocomplete-dropdown-container {
+    position: absolute;
+    /* float:left; */
+    /* clear:both; */
+    /* left: 2.5%; */
+    width: 90vw;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+    z-index: 10;
+}
+
+.autocomplete-dropdown-container div{
+    padding: 5px;
+    overflow: hidden;
+}
+
+/* .tourist-spots {
+    width: 100vw;
+}
+
+.card {
+    display: inline-block;
+    height: 40vw;
+    width: 40vw;
+    margin: 5px;
+} */

@@ -1,0 +1,56 @@
+.bookmark-container {
+    text-align: center;
+}
+.card-group {
+    text-align: center;
+    display: inline-block;
+    flex-flow: initial;
+    box-sizing: initial;
+}
+
+.card-group img {
+    width: 100%;
+    height: 38%;
+}
+
+.card-group .card .card-body .card-title {
+    font-size: 0.9em;
+}
+
+.card-group .card {
+    display: inline-block;
+    min-width: 200px;
+    max-width: 300px;
+    height: 60vh;
+    margin: auto;
+    border-left: 1px solid rgb(230, 221, 221)!important;
+}
+
+.card-group .card .card-body {
+    min-height: 50%; 
+}
+
+.card-group .card .card-footer {
+    min-height: 12%;
+    padding: 5px 10px;
+}
+
+.card-group .card .card-body .card-text {
+    font-size: 12px;
+}
+
+.delete-bookmark {
+    width: 100%;
+    height: 100%;
+}
+
+.fas {
+    color: rgb(236, 181, 77);
+}
+
+.fa-map-marker-alt {
+    color: rgb(199, 50, 50);
+}
+
+
+

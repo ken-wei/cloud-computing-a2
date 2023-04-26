@@ -1,0 +1,85 @@
+.weather-container {
+    width: 90vw;
+    margin: auto;
+}
+
+.weather-title h5{
+    margin: auto;
+    padding: 20px;
+    width: 100%;
+}
+
+.row .col-sm-2 {
+    display: inline-block;
+    width: 20vw;
+}
+
+.weather-card {
+    display: inline-block;
+    padding: 1px;
+    
+}
+
+.weather-readings {
+    border: 1px solid #e9ecef;
+
+}
+
+.weather-card-inner-today {
+    /* background-color: #e9ecef; */
+    background-color: rgb(205, 234, 243);
+    padding: 5px;
+    width: 200px;
+}
+
+.weather-card-inner {
+    padding: 5px;
+    width: 200px;
+}
+
+.weather-card-inner:hover {
+    background-color: rgb(223, 238, 243);
+}
+
+.emptyWeatherData {
+    padding: 25px;
+}
+
+/* Selection CSS for selecting days */
+.day-container {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* Button toggle to close weather forecast */
+.toggleOpen {
+    background: url(../images/top-arrow.png) no-repeat right #c8e5ef;
+    background-size: 20px;
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-position-x: 97%;
+}
+
+.toggleClose {
+    background: url(../images/bottom-arrow.png) no-repeat right #c8e5ef;
+    background-size: 20px;
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-position-x: 97%;
+}
+
+/* Change date button group */
+.date-buttongroup {
+    width: 100%;   
+}
+
+.date-buttongroup button{
+    padding: 5px;
+    /* background-color: grey; */
+}

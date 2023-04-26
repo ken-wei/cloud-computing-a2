@@ -1,0 +1,49 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+html, body {
+  /* background-image: url("./images/black-textile-952670.jpg"); */
+  /* background-image: url('./images/wood-texture-background-pine-82256.jpg'); */
+  /* background-image: url('./images/background-blank-empty-light-62693.jpg'); */
+  /* background-image: url('./images/high-angle-photo-of-grey-airplane-1487924.jpg'); */
+  overflow-x: hidden;
+}
+
+body {
+  padding-bottom: 70px;
+}

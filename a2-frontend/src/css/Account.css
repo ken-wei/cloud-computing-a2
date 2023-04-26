@@ -1,0 +1,57 @@
+.form-data form {
+    display: inline-block;
+    width: 50vw;
+    min-height: 50vh;
+}
+
+.form-data {
+    display: inline-block;
+    text-align: center;
+    margin: 70px 0;
+    border-radius: 10px;
+    border: solid 1px;
+    width: 55vw;
+    overflow: hidden;
+
+}
+
+.form-data form input, .form-button {
+    width: 70%;
+    margin: auto;
+}
+
+.form-data h1{
+    margin: 50px;
+}
+
+.form-outer {
+    text-align: center;
+}
+
+.form-data button, .form-data a {
+    float: right;
+    clear: both;
+    width: 40%;
+    /* margin: 10px 0; */
+}
+
+.form-data a {
+    margin-bottom: 50px;
+}
+
+.form-error-msg {
+    list-style-type: square;
+    width: 70%;
+    /* background: rgb(207, 53, 53); */
+    font-style: bold;
+    color: rgb(221, 92, 92);
+    margin: 5px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 10px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+/* Color */
+/* #1c1e21 */
